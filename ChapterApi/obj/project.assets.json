@@ -3645,11 +3645,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ic_ag\\ChapterProjectUC17\\ChapterApi\\ChapterApi\\ChapterApi.csproj",
+      "projectUniqueName": "C:\\Users\\ic_ag\\TesteIntegracao\\ChapterApi\\ChapterApi\\ChapterApi.csproj",
       "projectName": "ChapterApi",
-      "projectPath": "C:\\Users\\ic_ag\\ChapterProjectUC17\\ChapterApi\\ChapterApi\\ChapterApi.csproj",
+      "projectPath": "C:\\Users\\ic_ag\\TesteIntegracao\\ChapterApi\\ChapterApi\\ChapterApi.csproj",
       "packagesPath": "C:\\Users\\ic_ag\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ic_ag\\ChapterProjectUC17\\ChapterApi\\ChapterApi\\obj\\",
+      "outputPath": "C:\\Users\\ic_ag\\TesteIntegracao\\ChapterApi\\ChapterApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ic_ag\\AppData\\Roaming\\NuGet\\NuGet.Config",
